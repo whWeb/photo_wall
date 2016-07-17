@@ -1,0 +1,32 @@
+/* CSS Document */
+*{ 
+	padding:0px; 
+	margin:0px;
+ }
+input{
+	width:50px;
+	height:30px;
+	position:absolute;
+	left:100px;
+	top:100px;
+}
+#notice{
+	width:240px;
+	height:100px;
+	color:#FF0000;
+	line-height:25px;
+	position:absolute;
+	top:150px;
+	left:50px;	
+}
+#photoWall{ 
+	width:630px; 
+	height:480px;
+	margin:10px auto; 
+	position:relative;
+}
+img{ 
+	float:left; 
+	margin:0 10px 10px 0;
+}
+
